@@ -32441,3 +32441,14 @@ PHP/xamp/xampp_shell.bat
 PHP/xamp/xampp_start.exe
 PHP/xamp/xampp_stop.exe
 PHP/xampp/htdocs/cursoemvideo/olamundo.php
+PHP/xamp/apache/logs/access.log
+PHP/xamp/apache/logs/error.log
+PHP/xamp/apache/logs/httpd.pid
+PHP/xamp/apache/logs/ssl_request.log
+PHP/xamp/mysql/data/mysql.pid
+PHP/xamp/mysql/data/mysql_error.log
+PHP/xamp/tmp/ibFC94.tmp
+PHP/xamp/tmp/ibFCA5.tmp
+PHP/xamp/tmp/ibFCB5.tmp
+PHP/xamp/tmp/ibFCF5.tmp
+PHP/xampp/htdocs/cursoemvideo/olamundo.php
