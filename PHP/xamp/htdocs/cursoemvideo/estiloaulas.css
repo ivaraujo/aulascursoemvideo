@@ -16,4 +16,6 @@ section{
 }
 .conteudo{
     width: 800px;
+    background-color: aliceblue;
+    align-items: center;
 }
