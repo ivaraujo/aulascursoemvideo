@@ -8,15 +8,16 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="box">
-        <section class="conteudo">
-            <?php 
-                $n = 4;
-                $no = "Ivan";
-                echo $no;
-            ?>
+        <section>
+            <h2>
+                <?php 
+                    $n = 4;
+                    $no = "Ivan";
+                    echo $no;
+                ?>
+            </h2>            
         </section>
-    </div>
+    
     
     
 </body>
