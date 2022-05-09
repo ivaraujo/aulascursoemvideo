@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <header><br></header>
+    <header></header>
     <section class="conteudo">
         <?php 
             $n = 4;
