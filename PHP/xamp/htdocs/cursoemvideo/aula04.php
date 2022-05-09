@@ -11,9 +11,10 @@
         <section>
             <h2>
                 <?php 
-                    $idade = 4;
+                    $idade = 34;
                     $nome = "Ivan";
-                    echo $nome." têm ".$idade." anos!";
+                    echo $nome." têm ".$idade." anos! <br/>";
+                    echo "Luana também têm $idade anos.";
                 ?>
             </h2>            
         </section>
