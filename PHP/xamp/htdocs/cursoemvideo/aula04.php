@@ -9,7 +9,7 @@
 </head>
 <body>
     <header><br></header>
-    <section>
+    <section class="conteudo">
         <?php 
             $n = 4;
             $no = "Ivan";
