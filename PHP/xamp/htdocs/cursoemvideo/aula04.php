@@ -11,9 +11,9 @@
         <section>
             <h2>
                 <?php 
-                    $n = 4;
-                    $no = "Ivan";
-                    echo $no;
+                    $idade = 4;
+                    $nome = "Ivan";
+                    echo $nome." têm ".$idade." anos!";
                 ?>
             </h2>            
         </section>
