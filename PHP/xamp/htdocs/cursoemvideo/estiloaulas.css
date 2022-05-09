@@ -6,16 +6,14 @@
 body{
     background-color: aqua;
 }
-header{
-    height: 50px;
-    background-color: blueviolet;
-}
 
 .conteudo{
     display: flex;
-    justify-content: center;
+    flex-direction: row;
     align-items: center;
     width: 800px;
+    height: 600px;
     background-color: aliceblue;
+    margin-top: 30px;
     
 }
