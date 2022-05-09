@@ -6,7 +6,12 @@
 body{
     background-color: aqua;
 }
+header{
+    height: 30px;
+    background-color: blueviolet;
+}
 
 section{
     font-size: 14px;
+    width: 800px;
 }
