@@ -7,15 +7,15 @@ body{
     background-color: aqua;
 }
 header{
-    height: 30px;
+    height: 50px;
     background-color: blueviolet;
 }
 
-section{
-    font-size: 14px;
-    text-align: center;
-}
 .conteudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 800px;
     background-color: aliceblue;
+    
 }
