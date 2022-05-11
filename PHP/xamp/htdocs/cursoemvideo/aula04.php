@@ -9,14 +9,17 @@
 </head>
 <body>
         <section>
-            <h2>
-                <?php 
+            <div class="conteudo">
+            <?php 
                     $idade = 34;
                     $nome = "Ivan";
                     echo $nome." têm ".$idade." anos! <br/>";
                     echo "Luana também têm $idade anos.";
                 ?>
-            </h2>            
+
+            </div>
+                
+                        
         </section>
     
     
