@@ -7,13 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-       <h1>Soma</h1>        
+    <h1>Soma</h1>
+    <?php               
         $n1=3;
         $n2=2;
         $s=$n1+$n2;
-        echo "A soma entre $n1 e $n2 é: $s"; 
-    
+        echo "A soma entre $n1 e $n2 é: $s";    
     ?>
 </body>
 </html>
