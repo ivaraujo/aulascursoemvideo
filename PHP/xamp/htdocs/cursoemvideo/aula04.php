@@ -10,7 +10,7 @@
 <body>
         <section>
             <div class="conteudo">
-            <?php 
+                <?php 
                     $idade = 34;
                     $nome = "Ivan";
                     echo $nome." têm ".$idade." anos! <br/>";
