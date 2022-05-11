@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-        <section>
+    <div class="caixa">
             <div class="conteudo">
                 <?php 
                     $idade = 34;
@@ -18,9 +18,13 @@
                 ?>
 
             </div>
+            <div class="conteudo">
+                
+
+            </div>
                 
                         
-        </section>
+    </div>
     
     
     
