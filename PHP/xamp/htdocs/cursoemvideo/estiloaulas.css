@@ -1,14 +1,22 @@
-body{
-    background-color: aqua;
-    margin: 0;
+*{    
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
-section{
+.caixa{
+    height: 60vw;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
     
 }
 
 .conteudo{
+    width: 20%;
+    height: 200px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;    
+    font-size: 14px; 
+    background-color: rgb(20, 207, 60);
+    border: 1px solid black;
 }
